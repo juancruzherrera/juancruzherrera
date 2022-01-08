@@ -6,7 +6,6 @@
 - Kubernetes (basic for now 😅)
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
 - Watch soccer, i like very much
 - I listen to music, classic rocks, everything!
 - Play videogames
@@ -15,6 +14,22 @@
 ## 💻 Current project
 - [Kubernetes](https://github.com/juancruzherrera/Kubernetes-de-principiante-a-experto)
 
+<h1 align = "center"> Hola 👋, soy Juan Cruz </h1>
+<h2 align = "center"> Español </h2>
+<h3 align = "center"> técnico de TI </h3>
+
+## 💬 Pregúntame sobre
+- Docker (básico por ahora 😅)
+- Kubernetes (básico por ahora 😅)
+
+## 📅 ​​Pasatiempos
+- Ver futbol, ​​me gusta mucho
+- Escucho música, rock clásico, ¡de todo!
+- Jugar video juegos
+- Pasar tiempo con mi familia y mi novia.
+
+## 💻 Proyecto actual
+- [Kubernetes] (https://github.com/juancruzherrera/Kubernetes-de-principiante-a-experto)
 <!--
 **juancruzherrera/juancruzherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
