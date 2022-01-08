@@ -14,16 +14,14 @@
 ## 💻 Current project
 - [Kubernetes](https://github.com/juancruzherrera/Kubernetes-de-principiante-a-experto)
 
-<h1 align = "center"> Hola 👋, soy Juan Cruz </h1>
-<h2 align = "center"> Español </h2>
-<h3 align = "center"> técnico de TI </h3>
+<h2 align = "center"> En español </h2>
 
 ## 💬 Pregúntame sobre
 - Docker (básico por ahora 😅)
 - Kubernetes (básico por ahora 😅)
 
-## 📅 ​​Pasatiempos
-- Ver futbol, ​​me gusta mucho
+## 📅 Pasatiempos
+- Ver futbol, me gusta mucho
 - Escucho música, rock clásico, ¡de todo!
 - Jugar video juegos
 - Pasar tiempo con mi familia y mi novia.
