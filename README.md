@@ -2,8 +2,8 @@
 <h3 align="center">IT technician</h3>
 
 ## 💬 Ask me about
-- Docker
-- Kubernetes
+- Docker (basic for now 😅)
+- Kubernetes (basic for now 😅)
 
 ## 📅 Hobbies
 - Solve programming problems at Codeforces, UVa, LeetCode
